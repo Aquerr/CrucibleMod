@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cruciblemod",
+  "name": "Crucible Mod",
+  "description": "Adds Ex Nihilo's crucible.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aquerr"],
+  "credits": "Ex Nihilo team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
